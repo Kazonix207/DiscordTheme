@@ -3,6 +3,9 @@
 
 2. Go to the Vencord Themes section and click Upload Theme. Make sure you import the KazonixThemeDiscord.css file, not any other file.
 
+#how to install online theme
+Go to the Vencord Themes section and click Online Theme. Copy ```https://raw.githubusercontent.com/Kazonix207/DiscordTheme/refs/heads/main/KazonixThemeDiscord.css``` and Paste link
+
 # 🎨 Discord Theme
   Windows XP Theme
   Color Theme Orange
