@@ -8,6 +8,7 @@ Go to the Vencord Themes section and click Online Theme. Copy ```https://raw.git
 
 # 🎨 Discord Theme
   Windows XP Theme
+  
   Color Theme Orange
 
 # ✨ Features
