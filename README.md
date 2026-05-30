@@ -5,7 +5,7 @@
 
 # 🎨 Discord Theme
   Windows XP Theme
-  Color Theme (orange) 
+  Color Theme Orange
 
 # ✨ Features
   😶‍🌫️Blur Theme
