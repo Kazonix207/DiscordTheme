@@ -9,10 +9,15 @@
 
 # ✨ Features
   😶‍🌫️Blur Theme
+  
   🟧Border Theme orange
+  
   ⬜Glow and lighting mesages
+  
   ⬛Server list in 2 columns
+  
   🟧Orange scroll bar
+  
   ✅Compatible with BetterDiscord and Vencord
 
 ## 🖼️ Preview
