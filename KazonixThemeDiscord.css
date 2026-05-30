@@ -1,0 +1,27 @@
+/**
+* @name Kazonix
+* @author Kazonix_207
+* @version 1.0
+* @description Discord Theme Created By Kazonix
+* @source https://github.com/Kazonix207/DiscordTheme/
+* @UpdateUrl 
+*/
+
+@import url(https://raw.githubusercontent.com/Kazonix207/DiscordTheme/refs/heads/main/Css/main.css);
+
+:root {
+    --theme-background-image: url(https://imgur.com/csFXS4J.jpg);
+    --theme-transparency: rgba(0, 0, 0, 0.8);
+    --message-box-transparency: rgba(0, 0, 0, 0.6);
+    --server-listing-width: 126px;
+    --main-theme-color: rgb(67, 181, 129);
+    --unread-server-animation: rainbow;
+    --home-icon-image-zoom: 110%;
+    --home-icon-image-position: center center;
+    --home-icon-image: url(https://imgur.com/A7vgLdm.png);
+    --font-size: 100%;
+    --mention-color: rgba(250, 166, 26, 0.05);
+    --mention-sider: rgba(250, 166, 26, 1);
+    --mention-hover-color: rgba(250, 166, 26, 0.08);
+    --category-hover-color: rgb(60, 202, 138);
+}
