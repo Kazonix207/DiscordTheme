@@ -1,5 +1,5 @@
 # how to install ?
-1. install project 
+1. Download project 
 
 2. Go to the Vencord Themes section and click Upload Theme. Make sure you import the KazonixThemeDiscord.css file, not any other file.
 
