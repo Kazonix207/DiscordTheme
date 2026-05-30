@@ -1,7 +1,7 @@
 # how to install ?
-1.install project 
+1. install project 
 
-2.Go to the Vencord Themes section and click Upload Theme. Make sure you import the KazonixThemeDiscord.css file, not any other file.
+2. Go to the Vencord Themes section and click Upload Theme. Make sure you import the KazonixThemeDiscord.css file, not any other file.
 
 # 🎨 Discord Theme
   Windows XP Theme
